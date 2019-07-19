@@ -1,0 +1,11 @@
+Package: Outliers
+Type: Package
+Title: Returns Percentage of Missing Data and Outliers Counts for Each Column of Data.
+Version: 0.1.0
+Author: Arpit Prakash
+Maintainer: Arpit Prakash <arpitprakash29@gmail.com>
+Description: This package accepts a data set as an argument and returns percentage of missing data, presence of outliers and their counts for each variables in the data set.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
